@@ -1,0 +1,22 @@
+.ProductCard {
+    margin: 10px;
+}
+.ProductCard h1 {
+    font-size: larger;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.ProductCard .img {
+    width: 200px;
+    height: 200px;
+    background: goldenrod;
+}
+
+.ProductCard Button {
+    font-size: 14px;
+    border-radius: 0;
+    font-weight: 400;
+    text-transform: uppercase;
+    width: 100px;
+}

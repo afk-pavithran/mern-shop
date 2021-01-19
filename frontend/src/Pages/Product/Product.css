@@ -1,0 +1,13 @@
+.Product {
+    margin-left: 10%;
+    margin-top: 7%;
+    display: flex;
+    justify-content: space-around;   
+}
+
+.Product .img {
+    width: 500px;
+    height: 400px;
+    background: goldenrod;
+    grid-area: image;
+}
